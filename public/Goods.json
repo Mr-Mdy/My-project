@@ -1,0 +1,13 @@
+{
+  "data": {
+    "cpc_offset": 0,
+    "filter": {
+      "list": "Array(3)",
+      "title": "首页"
+    },
+    "list": [
+      {},
+      {}
+    ]
+  }
+}
